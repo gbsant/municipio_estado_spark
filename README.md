@@ -1,0 +1,3 @@
+- Importar CSVs da pasta /exercicios/municipios-estados/csv/ e salvar como arquivos JSON no MinIO.
+- Importar JSONs da pasta de /exercicios/municipios-estados/csv/ e salvar como arquivos CSV no MinIO.
+- Importar CSVs da pasta de /exercicios/municipios-estados/csv/ e salvar como arquivo .parquet no MinIO.
